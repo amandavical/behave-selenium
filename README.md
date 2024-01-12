@@ -1,4 +1,4 @@
-# Behave_Selenium
+# behave-selenium
 
 *This project contains automated tests using the Behave tool and the Selenium automation framework for interactions with the DemoQA website.*
 
