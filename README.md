@@ -36,7 +36,7 @@ O objetivo é criar cenários de teste descritos em linguagem natural (Gherkin) 
 
 ## Features
 
-The project contains the following test scenarios:
+*The project contains the following test scenarios:*
 
 * Scenario 1 - Verify the main page loading
 * Scenario 2 - Verify navigation to the Elements section
@@ -46,7 +46,7 @@ The project contains the following test scenarios:
 
 ---
 
-O projeto contém os seguintes cenários de teste:
+*O projeto contém os seguintes cenários de teste:*
 
 * Cenário 1 - Verificar o carregamento da página principal
 * Cenário 2 - Verificar a navegação para a seção de Elements
@@ -61,7 +61,7 @@ O projeto contém os seguintes cenários de teste:
 * steps: Contains Python files with corresponding test steps ( *_steps.py files).
 
 ## Usage
-**The project can be executed using Behave, which will interpret the scenarios described in Gherkin and run the tests in the Chrome browser.**
+*The project can be executed using Behave, which will interpret the scenarios described in Gherkin and run the tests in the Chrome browser.*
 
 
 Run the tests using the following command:
